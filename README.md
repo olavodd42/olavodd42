@@ -2,7 +2,6 @@
 
 🎓 **Desenvolvedor Full-Stack | Criador de Soluções**
 
-🔭 Trabalhando em: [Ecommerce Web App](https://github.com/olavodd42/ecommerce-site)  
 📫 Como me encontrar: [Meu Portfólio](https://olavodd42.vercel.app/) | [![Linkedin Badge](https://img.shields.io/badge/-Olavo_Defendi_Dalberto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavo-defendi-dalberto-050144235) | [![Mail Badge](https://img.shields.io/badge/-olavodalberto921-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:olavodalberto921@gmail.com) | [![Mail Badge](https://img.shields.io/badge/-@dalbertolavo-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dalbertolavo/) 
 
 ---
