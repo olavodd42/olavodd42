@@ -7,7 +7,7 @@
 [![Mail Badge](https://img.shields.io/badge/-olavodalberto921-c0392b?style=flat&logo=gmail&logoColor=white)](mailto:olavodalberto921@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-@dalbertolavo-e84393?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dalbertolavo/)  
 🌐 **Portfólio:** [https://olavodd42.vercel.app/](https://olavodd42.vercel.app/)  
-📄 **Currículo:** [Visualizar PDF](https://drive.google.com/file/d/1XDev8tg8BoG3961rcHw2HlrAsrr1nhre/view?usp=sharing)
+📄 **Currículo:** [Visualizar PDF]([https://drive.google.com/file/d/1XDev8tg8BoG3961rcHw2HlrAsrr1nhre/view?usp=sharing](https://drive.google.com/file/d/1wksFVUiG8sZQc9AsRY83yRjCHBru2BwC/view?usp=sharing))
 
 ---
 
