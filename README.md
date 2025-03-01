@@ -1,6 +1,6 @@
 # Olavo Defendi Dalberto 👋
 
-🎓 **Engenheiro de Computação | Desenvolvedor Full-Stack | Especialista em Dados**
+🎓 **Engenheiro de Computação | Cientista/Analista de Dados**
 
 📫 **Contato:**  
 [![Linkedin Badge](https://img.shields.io/badge/-Olavo_Defendi_Dalberto-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavo-defendi-dalberto-050144235) 
