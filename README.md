@@ -58,7 +58,7 @@
 **🛒 Plataforma de E-commerce 2025 (Full Stack)**  
 - Front-end: React & TypeScript  
 - Back-end: Node.js (Express, Sequelize, PostgreSQL)  
-- Repositório: [GitHub]([https://github.com/olavodd42/ecommerce-platform](https://github.com/olavodd42/ecommerce-site))
+- Repositório: [Github](https://github.com/olavodd42/ecommerce-site)
 
 **📚 Sistema de Gerenciamento de Biblioteca 2024**  
 - Front-end: HTML/CSS  
