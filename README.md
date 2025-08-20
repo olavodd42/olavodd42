@@ -7,7 +7,14 @@
 [![Mail Badge](https://img.shields.io/badge/-olavodalberto921-c0392b?style=flat&logo=gmail&logoColor=white)](mailto:olavodalberto921@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-@dalbertolavo-e84393?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dalbertolavo/)  
 🌐 **Portfólio:** [https://olavodd42.vercel.app/](https://olavodd42.vercel.app/)  
-📄 **Currículo:** [Visualizar PDF](https://drive.google.com/file/d/1wksFVUiG8sZQc9AsRY83yRjCHBru2BwC/view?usp=sharing)
+📄 **Currículo:** [Visualizar PDF](https://drive.google.com/file/d/1L-4K_zcXCpPtoCAwVGVzGsBEDiuaE2Gt/view?usp=sharing)
+
+---
+## **Sobre mim**
+Engenheiro da Computação (9&ordm; semestre na UFSM) com base sólida em Machine Learning e
+Deep Learning (cursos DeepLearning.AI/Stanford). Experiência prática em desenvolvimento de
+LLMs, pipelines de dados e sistemas web. Proativo, comunicativo e motivado a aplicar IA para
+solucionar problemas complexos e gerar impacto no mercado financeiro.
 
 ---
 
@@ -55,15 +62,11 @@
 
 ## 📌 **Projetos Destacados**
 
-**🛒 Plataforma de E-commerce 2025 (Full Stack)**  
-- Front-end: React & TypeScript  
-- Back-end: Node.js (Express, Sequelize, PostgreSQL)  
-- Repositório: [Github](https://github.com/olavodd42/ecommerce-site)
-
-**📚 Sistema de Gerenciamento de Biblioteca 2024**  
-- Front-end: HTML/CSS  
-- Back-end: PHP + MySQL  
-- Repositório: [GitHub](https://github.com/olavodd42/library-system)
+****🛒 Chatbot Educacional com GPT-2**  
+- Fine-tuning do GPT-2 usando LoRA e quantização em 8-bit, reduzindo custo computacional e melhorando métricas.
+- Pipeline de dados (Python, Pandas, PyYAML) e integração com Hugging Face.
+- Weights \& Biases (W\&B) para logging de métricas e amostras.
+- Repositório: [Github](https://github.com/olavodd42/gpt2_chatbot_edu)
 
 ---
 
