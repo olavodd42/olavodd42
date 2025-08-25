@@ -62,11 +62,16 @@ solucionar problemas complexos e gerar impacto no mercado financeiro.
 
 ## 📌 **Projetos Destacados**
 
-****🛒 Chatbot Educacional com GPT-2**  
+**Chatbot Educacional com GPT-2**  
 - Fine-tuning do GPT-2 usando LoRA e quantização em 8-bit, reduzindo custo computacional e melhorando métricas.
 - Pipeline de dados (Python, Pandas, PyYAML) e integração com Hugging Face.
 - Weights \& Biases (W\&B) para logging de métricas e amostras.
 - Repositório: [Github](https://github.com/olavodd42/gpt2_chatbot_edu)
+
+**Food Chatbot com Dialogflow**  
+- Chatbot criado utilizando Google Dialogflow servindo para delivery fícticio de comida.
+- Back-end com fast-api
+- Repositório: [Github](https://github.com/olavodd42/food-chatbot-project)
 
 ---
 
