@@ -73,6 +73,11 @@ solucionar problemas complexos e gerar impacto no mercado financeiro.
 - Back-end com fast-api
 - Repositório: [Github](https://github.com/olavodd42/food-chatbot-project)
 
+**Análise Exploratória de Dados com Dataset Olist**  
+- Análise em python realizada sobre dataset de e-commerce Olist.
+- Interface web com Streamlit.
+- Repositório: [Github](https://github.com/olavodd42/analise_exploratoria_olist)
+
 ---
 
 ## 🎓 **Educação**
