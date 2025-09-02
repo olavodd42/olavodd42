@@ -13,7 +13,7 @@
 ## **Sobre mim**
 Engenheiro da Computação (9&ordm; semestre na UFSM) com base sólida em Machine Learning e
 Deep Learning (cursos DeepLearning.AI/Stanford). Experiência prática em desenvolvimento de
-LLMs, pipelines de dados e sistemas web. Proativo, comunicativo e motivado a aplicar IA para
+LLMs, pipelines de dados e ciência de dados. Proativo, comunicativo e motivado a aplicar IA para
 solucionar problemas complexos e gerar impacto no mercado financeiro.
 
 ---
