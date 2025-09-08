@@ -62,6 +62,18 @@ solucionar problemas complexos e gerar impacto no mercado financeiro.
 
 ## 📌 **Projetos Destacados**
 
+**Previsão de Atraso em Entregas utilizando Dataset Olist**  
+- Modelo de ML criado em Python para previsão de atrasos em entregas e entender causas desse atraso.
+- Utiliza modelo LighGBM.
+- Fine-tuning com RandomizedSearchCV vs. Optuna.
+- Comparação entre XGBoost, LighGBM e Catboost.
+- Repositório: [Github](https://github.com/olavodd42/delay_forecast_olist)
+
+**Análise Exploratória de Dados com Dataset Olist**  
+- Análise em python realizada sobre dataset de e-commerce Olist.
+- Interface web com Streamlit.
+- Repositório: [Github](https://github.com/olavodd42/analise_exploratoria_olist)
+
 **Chatbot Educacional com GPT-2**  
 - Fine-tuning do GPT-2 usando LoRA e quantização em 8-bit, reduzindo custo computacional e melhorando métricas.
 - Pipeline de dados (Python, Pandas, PyYAML) e integração com Hugging Face.
@@ -73,10 +85,6 @@ solucionar problemas complexos e gerar impacto no mercado financeiro.
 - Back-end com fast-api
 - Repositório: [Github](https://github.com/olavodd42/food-chatbot-project)
 
-**Análise Exploratória de Dados com Dataset Olist**  
-- Análise em python realizada sobre dataset de e-commerce Olist.
-- Interface web com Streamlit.
-- Repositório: [Github](https://github.com/olavodd42/analise_exploratoria_olist)
 
 ---
 
