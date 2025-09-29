@@ -122,7 +122,7 @@
 <p align="center">
   <picture>
     <!-- dark -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olavodd42/olavodd42/output/github-contribution-grid-snake-dark.svgg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olavodd42/olavodd42/output/github-contribution-grid-snake-dark.svg" />
     <!-- light -->
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olavodd42/olavodd42/output/github-contribution-grid-snake.svg" />
     <!-- fallback -->
