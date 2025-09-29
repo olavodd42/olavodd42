@@ -127,11 +127,11 @@ Proativo, comunicativo e movido pela missão de aplicar tecnologia para **resolv
 <p align="center">
   <picture>
     <!-- versão dark (mostra quando prefer dark mode) -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olavodd42/olavodd42/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olavodd42/olavodd42/c9bd5f52a4d4faeb16a3bfd692f0bb0c8a401620/snake-dark.svg" />
     <!-- versão light (fallback) -->
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olavodd42/olavodd42/output/github-snake.svg" />
     <!-- sempre renderiza alguma imagem se browser não suportar picture -->
-    <img alt="github-snake" src="https://raw.githubusercontent.com/olavodd42/olavodd42/output/snake-dark.svg" style="max-width:100%;"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/olavodd42/olavodd42/c9bd5f52a4d4faeb16a3bfd692f0bb0c8a401620/snake-dark.svg" style="max-width:100%;"/>
   </picture>
 </p>
 
