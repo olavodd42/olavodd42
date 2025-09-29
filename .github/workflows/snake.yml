@@ -8,7 +8,7 @@ on:
     branches: [main]
 
 permissions:
-  contents: write   # 👈 habilita push via GITHUB_TOKEN
+  contents: write
 
 jobs:
   generate:
@@ -21,7 +21,11 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: olavodd42
-          outputs: dist/snake.svg
+          outputs: dist/snake-dark.svg
+          # 🎨 Estilo hacker (verde neon em fundo preto)
+          color_snake: "#00FF00"
+          color_dots: "#00FF00,#39FF14,#7CFC00"
+          background: "#000000"
 
       - name: Push Snake to output
         uses: crazy-max/ghaction-github-pages@v3.1.0
