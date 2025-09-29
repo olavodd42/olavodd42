@@ -1,4 +1,4 @@
-# Olavo Defendi Dalberto 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C9D1D9&lines=Bem-vindo++ao++meu++Perfil!!%F0%9F%91%8B;Me+chamo+Olavo+)](https://github.com/olavodd42)
 
 **Cientista / Analista de Dados | ML & AI Engineer**
 
