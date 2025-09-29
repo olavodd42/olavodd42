@@ -122,7 +122,7 @@ Proativo, comunicativo e movido pela missão de aplicar tecnologia para **resolv
 
 ---
 
-## 🐍 Snake Graph (animado)
+## 🐍 Snake Graph
 
 <p align="center">
   <picture>
