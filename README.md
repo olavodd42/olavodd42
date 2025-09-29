@@ -1,22 +1,56 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=1000&lines=>+Bem-vindo+ao+meu+perfil%2C+humano!;>+Eu+sou+Olavo+Defendi+Dalberto+💻;>+ML+%26+AI+Engineer+em+constante+evolução...)](https://github.com/olavodd42)
 
-**Cientista / Analista de Dados | ML & AI Engineer**
+---
 
-
-📫 **Contato:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavo-defendi-dalberto-050144235) 
-[![Email](https://img.shields.io/badge/Gmail-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olavodalberto921@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-e84393?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dalbertolavo/)  
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-00FFB3?style=for-the-badge&logo=firefox&logoColor=white)](https://olavodd42.vercel.app/)  
-[![Currículo](https://img.shields.io/badge/📄%20Currículo-FF4C8B?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1L-4K_zcXCpPtoCAwVGVzGsBEDiuaE2Gt/view?usp=sharing)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/💀_Cientista/Analista_de_Dados-000000?style=for-the-badge&logo=matrix&logoColor=00ff00&labelColor=000000&color=000000">
+  <img src="https://img.shields.io/badge/👾_ML_&_AI_Engineer-000000?style=for-the-badge&logo=tensorflow&logoColor=ff0080&labelColor=000000&color=000000">
+</p>
 
 ---
 
 ## 👨‍💻 Sobre mim
-Engenheiro da Computação (9º semestre UFSM) com base sólida em **Machine Learning & Deep Learning** (Stanford/DeepLearning.AI).  
-Experiência prática em **LLMs, pipelines de dados, ciência de dados** e aplicações de IA.  
-Proativo, comunicativo e movido pela missão de aplicar tecnologia para **resolver problemas complexos** e gerar impacto.
+🎓 Engenheiro da Computação (9º semestre – UFSM).  
+⚡ Focado em **LLMs, ML pipelines, Data Science** e **IA aplicada**.  
+🧠 Obcecado por aprender, criar e **hackear soluções** para problemas complexos.  
+  
+
+---
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavo-defendi-dalberto-050144235)
+[![Gmail](https://img.shields.io/badge/Gmail-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olavodalberto921@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-e84393?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dalbertolavo/)
+[![🌐 Portfolio](https://img.shields.io/badge/🌐%20Portfolio-00FFB3?style=for-the-badge&logo=firefox&logoColor=white)](https://olavodd42.vercel.app/)
+[![📄 Currículo](https://img.shields.io/badge/📄%20Currículo-FF4C8B?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1L-4K_zcXCpPtoCAwVGVzGsBEDiuaE2Gt/view?usp=sharing)
+
+---
+
+
+## 🛠️ Stack
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=1000&lines=>+Bem-vindo+ao+meu+perfil%2C+humano!;>+Eu+sou+Olavo+Defendi+Dalberto+💻;>+ML+%26+AI+Engineer+em+constante+evolução...)](https://github.com/olavodd42)
+
+---
+
+![Cientista/Analista de Dados](https://img.shields.io/badge/💀_Cientista/Analista_de_Dados-000000?style=for-the-badge&logo=matrix&logoColor=00ff00&labelColor=000000&color=000000)
+![ML & AI Engineer](https://img.shields.io/badge/👾_ML_&_AI_Engineer-000000?style=for-the-badge&logo=tensorflow&logoColor=ff0080&labelColor=000000&color=000000)
+
+---
+
+## 👨‍💻 Sobre mim
+🎓 Engenheiro da Computação (9º semestre – UFSM).  
+⚡ Focado em **LLMs, ML pipelines, Data Science** e **IA aplicada**.  
+🧠 Obcecado por aprender, criar e **hackear soluções** para problemas complexos.  
+
+---
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavo-defendi-dalberto-050144235)
+[![Gmail](https://img.shields.io/badge/Gmail-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olavodalberto921@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-e84393?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dalbertolavo/)
+[![🌐 Portfolio](https://img.shields.io/badge/🌐%20Portfolio-00FFB3?style=for-the-badge&logo=firefox&logoColor=white)](https://olavodd42.vercel.app/)
+[![📄 Currículo](https://img.shields.io/badge/📄%20Currículo-FF4C8B?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1L-4K_zcXCpPtoCAwVGVzGsBEDiuaE2Gt/view?usp=sharing)
 
 ---
 
@@ -30,7 +64,7 @@ Proativo, comunicativo e movido pela missão de aplicar tecnologia para **resolv
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Banco de Dados**  
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -60,21 +94,21 @@ Proativo, comunicativo e movido pela missão de aplicar tecnologia para **resolv
 
 ---
 
-## 📌 Projetos Destacados
 
-🔮 **[Previsão de Atraso em Entregas — Olist](https://github.com/olavodd42/delay_forecast_olist)**  
-📦 ML pipeline com LightGBM + Optuna vs RandomizedSearchCV.  
-⚡ Comparação entre XGBoost, LightGBM e Catboost.  
+## 📌 Projetos
 
-📊 **[Análise Exploratória de Dados — Olist](https://github.com/olavodd42/analise_exploratoria_olist)**  
-📈 EDA completo + Streamlit para visualização interativa.  
+- 🔮 **[Previsão de Atrasos — Olist](https://github.com/olavodd42/delay_forecast_olist)**  
+  ML pipeline com LightGBM + Optuna, comparando XGBoost e Catboost.  
 
-🤖 **[Chatbot Educacional com GPT-2](https://github.com/olavodd42/gpt2_chatbot_edu)**  
-🎯 Fine-tuning com LoRA + quantização 8-bit.  
-📡 Hugging Face + Weights & Biases.  
+- 📊 **[EDA — Olist](https://github.com/olavodd42/analise_exploratoria_olist)**  
+  Dashboard interativo em Streamlit.  
 
-🍔 **[Food Chatbot com Dialogflow](https://github.com/olavodd42/food-chatbot-project)**  
-🛒 FastAPI backend + NLU para delivery fictício.  
+- 🤖 **[GPT-2 Chatbot Educacional](https://github.com/olavodd42/gpt2_chatbot_edu)**  
+  Fine-tuning LoRA + quantização 8-bit.  
+
+- 🍔 **[Food Chatbot](https://github.com/olavodd42/food-chatbot-project)**  
+  FastAPI + NLU para delivery fictício.  
+
 
 ---
 
@@ -84,41 +118,31 @@ Proativo, comunicativo e movido pela missão de aplicar tecnologia para **resolv
 
 ---
 
+
 ## 📜 Certificações
-- Trilha: Fundamentos de Power BI - Fundação Bradesco & Microsoft (2025)
-- Deep Learning Specialization – DeepLearning.AI (2024)  
-- Machine Learning Specialization – Stanford Online (2024)  
-- Curso de IA Básico – Huawei ICT Academy/UFSM (2024)  
-- JavaScript – Curso em Vídeo (2025)  
+- Trilha: Fundamentos de Power BI — Fundação Bradesco & Microsoft (2025)  
+- Deep Learning Specialization — DeepLearning.AI (2024)  
+- Machine Learning Specialization — Stanford Online (2024)  
+- Curso de IA Básico — Huawei ICT Academy/UFSM (2024)  
+- JavaScript — Curso em Vídeo (2025)  
 
 ---
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olavodd42&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olavodd42&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olavodd42&theme=neon-dark&hide_border=true&border_radius=10" />
-</div>
+![stats](https://github-readme-stats.vercel.app/api?username=olavodd42&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=10)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olavodd42&layout=donut&langs_count=8&theme=chartreuse-dark&hide_border=true&border_radius=10)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=olavodd42&theme=radical&hide_border=true&border_radius=10)
 
 ---
 
 ## 👁️ Visitas ao Perfil
 
-<p align="center">
-  <!-- Komarev -->
-  <img src="https://komarev.com/ghpvc/?username=olavodd42&style=for-the-badge&color=00ffb3&label=PROFILE+VIEWS" alt="profile views" />
+![profile views](https://komarev.com/ghpvc/?username=olavodd42&style=for-the-badge&color=00ffb3&label=PROFILE+VIEWS)
+![hits](https://api.visitorbadge.io/api/visitors?path=olavodd42%2Folavodd42&label=HITS&countColor=%2300ffb3&style=for-the-badge&labelStyle=upper&labelColor=000000)
 
-  <!-- Shields + CountAPI (substitui seeyoufarm) -->
-  <img src="https://api.visitorbadge.io/api/visitors?path=olavodd42%2Folavodd42&label=HITS&countColor=%2300ffb3&style=for-the-badge&labelStyle=upper&labelColor=000000" alt="hits" />
-</p>
+[![u8views](https://u8views.com/api/v1/github/profiles/125816508/views/day-week-month-total-count.svg?color=00ffb3)](https://u8views.com/github/olavodd42)
 
-<p align="center">
-  <!-- U8views: painel dia/semana/mês/total -->
-  <a href="https://u8views.com/github/olavodd42">
-    <img src="https://u8views.com/api/v1/github/profiles/125816508/views/day-week-month-total-count.svg?color=00ffb3" alt="u8views" />
-  </a>
-</p>
 
 ---
 
@@ -127,7 +151,7 @@ Proativo, comunicativo e movido pela missão de aplicar tecnologia para **resolv
 <p align="center">
   <picture>
     <!-- dark -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olavodd42/olavodd42/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olavodd42/olavodd42/output/github-contribution-grid-snake-dark.svgg" />
     <!-- light -->
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olavodd42/olavodd42/output/github-contribution-grid-snake.svg" />
     <!-- fallback -->

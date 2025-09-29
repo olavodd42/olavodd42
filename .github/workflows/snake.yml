@@ -2,11 +2,11 @@ name: Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # 1x por dia
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
-      - main              
+      - main
 
 jobs:
   generate:
@@ -14,15 +14,20 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate snake svgs
-        uses: Platane/snk/svg-only@v3
+      - name: Generate hacker snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg
+          svg-embed-style: |
+            .background { fill: #000000 }
+            .snake { stroke: #00FF00 }
+            .food { fill: #39FF14 }
+            .head { stroke: #B026FF }
 
-      - name: Publish to output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
