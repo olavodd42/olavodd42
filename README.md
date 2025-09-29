@@ -106,4 +106,11 @@ Proativo, comunicativo e movido pela missão de aplicar tecnologia para **resolv
 ## 👁️ Visitas ao Perfil  
 ![Views](https://img.shields.io/badge/👁️%20Profile%20Views-00ffb3?style=for-the-badge&logo=github)
 
+## 🐍 Snake Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/olavodd42/olavodd42/output/snake.svg" alt="Snake animation" />
+</div>
+
+
 🌟 **Explore meus repositórios e contribua!**
