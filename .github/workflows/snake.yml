@@ -2,18 +2,20 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # roda todo dia à meia-noite UTC
-  workflow_dispatch:      # permite rodar manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
+
+permissions:
+  contents: write   # 👈 habilita push via GITHUB_TOKEN
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake SVG
         uses: Platane/snk@v3
@@ -21,7 +23,7 @@ jobs:
           github_user_name: olavodd42
           outputs: dist/snake.svg
 
-      - name: Push Snake to Output Branch
+      - name: Push Snake to output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
