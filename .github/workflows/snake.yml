@@ -21,12 +21,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          # aplica estilos extras só no dark
-          svg-embed-style: |
-            .background { fill: #000000 }
-            .snake { stroke: #00FF00 }
-            .food { fill: #39FF14 }
-            .head { stroke: #B026FF }
+
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

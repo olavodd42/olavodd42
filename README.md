@@ -119,6 +119,7 @@
 
 ## 🐍 Snake Graph
 
+![github-snake-light](https://raw.githubusercontent.com/olavodd42/olavodd42/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![github-snake-dark](https://raw.githubusercontent.com/olavodd42/olavodd42/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 🌟 **Explore meus repositórios e contribua!**
