@@ -106,26 +106,18 @@ Proativo, comunicativo e movido pela missão de aplicar tecnologia para **resolv
 ## 👁️ Visitas ao Perfil
 
 <p align="center">
-  <!-- Komarev: total de visualizações (simples e popular) -->
+  <!-- Komarev -->
   <img src="https://komarev.com/ghpvc/?username=olavodd42&style=for-the-badge&color=00ffb3&label=PROFILE+VIEWS" alt="profile views" />
-  
-  <!-- Visitor Badge: contador por página (customizável em dark) -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=olavodd42.olavodd42&left_color=000000&right_color=00ffb3" alt="visitor badge" />
-  
-  <!-- Hits (seeyoufarm): contador com tema dark e ícone do GitHub -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folavodd42%2Folavodd42&count_bg=%2300ffb3&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false" alt="hits" />
+
+  <!-- Shields + CountAPI (substitui seeyoufarm) -->
+  <img src="https://api.visitorbadge.io/api/visitors?path=olavodd42%2Folavodd42&label=HITS&countColor=%2300ffb3&style=for-the-badge&labelStyle=upper&labelColor=000000" alt="hits" />
 </p>
 
-<!-- U8views: day/week/month/total (painel completo) -->
 <p align="center">
+  <!-- U8views: painel dia/semana/mês/total -->
   <a href="https://u8views.com/github/olavodd42">
-    <img src="https://u8views.com/api/v1/github/profiles/125816508/views/day-week-month-total-count.svg?color=00ffb3" alt="u8views: day/week/month/total" />
+    <img src="https://u8views.com/api/v1/github/profiles/125816508/views/day-week-month-total-count.svg?color=00ffb3" alt="u8views" />
   </a>
-</p>
-
-<!-- Contador minimalista (SVG simples) -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/olavodd42/count.svg" alt="profile counter" />
 </p>
 
 ---
