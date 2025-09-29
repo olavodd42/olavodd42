@@ -1,33 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=1000&lines=>+Bem-vindo+ao+meu+perfil%2C+humano!;>+Eu+sou+Olavo+Defendi+Dalberto+💻;>+ML+%26+AI+Engineer+em+constante+evolução...)](https://github.com/olavodd42)
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/💀_Cientista/Analista_de_Dados-000000?style=for-the-badge&logo=matrix&logoColor=00ff00&labelColor=000000&color=000000">
-  <img src="https://img.shields.io/badge/👾_ML_&_AI_Engineer-000000?style=for-the-badge&logo=tensorflow&logoColor=ff0080&labelColor=000000&color=000000">
-</p>
-
----
-
-## 👨‍💻 Sobre mim
-🎓 Engenheiro da Computação (9º semestre – UFSM).  
-⚡ Focado em **LLMs, ML pipelines, Data Science** e **IA aplicada**.  
-🧠 Obcecado por aprender, criar e **hackear soluções** para problemas complexos.  
-  
-
----
-
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavo-defendi-dalberto-050144235)
-[![Gmail](https://img.shields.io/badge/Gmail-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olavodalberto921@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-e84393?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dalbertolavo/)
-[![🌐 Portfolio](https://img.shields.io/badge/🌐%20Portfolio-00FFB3?style=for-the-badge&logo=firefox&logoColor=white)](https://olavodd42.vercel.app/)
-[![📄 Currículo](https://img.shields.io/badge/📄%20Currículo-FF4C8B?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1L-4K_zcXCpPtoCAwVGVzGsBEDiuaE2Gt/view?usp=sharing)
-
----
-
-
-## 🛠️ Stack
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=1000&lines=>+Bem-vindo+ao+meu+perfil%2C+humano!;>+Eu+sou+Olavo+Defendi+Dalberto+💻;>+ML+%26+AI+Engineer+em+constante+evolução...)](https://github.com/olavodd42)
 
