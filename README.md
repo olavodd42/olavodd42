@@ -115,6 +115,7 @@ solucionar problemas complexos e gerar impacto no mercado financeiro.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=olavodd42&show_icons=true&theme=transparent&cache=0&border_radius=10&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olavodd42&layout=compact&langs_count=8&cache=0&theme=transparent&show_icons=true&border_radius=10&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username={olavodd42}	https://github-readme-activity-graph.vercel.app/graph?use" />
 </div>
 
 ---
