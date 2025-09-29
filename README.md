@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C9D1D9&lines=Bem-vindo++ao++meu++Perfil!!%F0%9F%91%8B;Me+chamo+Olavo+)](https://github.com/olavodd42)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=1000&lines=>+Bem-vindo+ao+meu+perfil%2C+humano!;>+Eu+sou+Olavo+Defendi+Dalberto+💻;>+ML+%26+AI+Engineer+em+constante+evolução...)](https://github.com/olavodd42)
 
 **Cientista / Analista de Dados | ML & AI Engineer**
 
