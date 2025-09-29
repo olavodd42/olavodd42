@@ -26,6 +26,10 @@ jobs:
           color_snake: "#00FF00"
           color_dots: "#00FF00,#39FF14,#7CFC00"
           background: "#000000"
+          svg-embed-style: |
+            .background { fill: #000000 }
+            .snake { stroke: #00FF00 }
+            .food { fill: #39FF14 }
 
       - name: Push Snake to output
         uses: crazy-max/ghaction-github-pages@v3.1.0
