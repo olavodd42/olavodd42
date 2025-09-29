@@ -119,16 +119,6 @@
 
 ## 🐍 Snake Graph
 
-<p align="center">
-  <picture>
-    <!-- dark -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olavodd42/olavodd42/output/github-contribution-grid-snake-dark.svg" />
-    <!-- light -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olavodd42/olavodd42/output/github-contribution-grid-snake.svg" />
-    <!-- fallback -->
-    <img alt="github-snake" src="https://raw.githubusercontent.com/olavodd42/olavodd42/output/github-contribution-grid-snake-dark.svg" style="max-width:100%;" />
-  </picture>
-</p>
-
+![github-snake-dark](https://raw.githubusercontent.com/olavodd42/olavodd42/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 🌟 **Explore meus repositórios e contribua!**
