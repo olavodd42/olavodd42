@@ -1,125 +1,109 @@
 # Olavo Defendi Dalberto 👋
 
-**Cientista/Analista de Dados**
+**Cientista / Analista de Dados | ML & AI Engineer**
+
 
 📫 **Contato:**  
-[![Linkedin Badge](https://img.shields.io/badge/-Olavo_Defendi_Dalberto-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavo-defendi-dalberto-050144235) 
-[![Mail Badge](https://img.shields.io/badge/-olavodalberto921-c0392b?style=flat&logo=gmail&logoColor=white)](mailto:olavodalberto921@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/-@dalbertolavo-e84393?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dalbertolavo/)  
-🌐 **Portfólio:** [https://olavodd42.vercel.app/](https://olavodd42.vercel.app/)  
-📄 **Currículo:** [Visualizar PDF](https://drive.google.com/file/d/1L-4K_zcXCpPtoCAwVGVzGsBEDiuaE2Gt/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavo-defendi-dalberto-050144235) 
+[![Email](https://img.shields.io/badge/Gmail-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olavodalberto921@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-e84393?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dalbertolavo/)  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-00FFB3?style=for-the-badge&logo=firefox&logoColor=white)](https://olavodd42.vercel.app/)  
+[![Currículo](https://img.shields.io/badge/📄%20Currículo-FF4C8B?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1L-4K_zcXCpPtoCAwVGVzGsBEDiuaE2Gt/view?usp=sharing)
 
----
-## **Sobre mim**
-Engenheiro da Computação (9&ordm; semestre na UFSM) com base sólida em Machine Learning e
-Deep Learning (cursos DeepLearning.AI/Stanford). Experiência prática em desenvolvimento de
-LLMs, pipelines de dados e ciência de dados. Proativo, comunicativo e motivado a aplicar IA para
-solucionar problemas complexos e gerar impacto no mercado financeiro.
 
 ---
 
-## 🛠️ **Tecnologias e Ferramentas**
+## 👨‍💻 Sobre mim
+Engenheiro da Computação (9º semestre UFSM) com base sólida em **Machine Learning & Deep Learning** (Stanford/DeepLearning.AI).  
+Experiência prática em **LLMs, pipelines de dados, ciência de dados** e aplicações de IA.  
+Proativo, comunicativo e movido pela missão de aplicar tecnologia para **resolver problemas complexos** e gerar impacto.
 
-**Linguagens:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+---
 
-**Banco de Dados:**  
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+## 🛠️ Tech Stack
 
-**Cloud & DevOps:**  
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**Linguagens & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Data Science & ML:**  
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+**Banco de Dados**  
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Data Visualization**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+**Cloud & DevOps**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
-**Development**
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+**Data Science & ML**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
 
-**Operating Systems**
+**Visualização & Dev**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Sistemas Operacionais**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-## 📌 **Projetos Destacados**
+## 📌 Projetos Destacados
 
-**Previsão de Atraso em Entregas utilizando Dataset Olist**  
-- Modelo de ML criado em Python para previsão de atrasos em entregas e entender causas desse atraso.
-- Utiliza modelo LighGBM.
-- Fine-tuning com RandomizedSearchCV vs. Optuna.
-- Comparação entre XGBoost, LighGBM e Catboost.
-- Repositório: [Github](https://github.com/olavodd42/delay_forecast_olist)
+🔮 **[Previsão de Atraso em Entregas — Olist](https://github.com/olavodd42/delay_forecast_olist)**  
+📦 ML pipeline com LightGBM + Optuna vs RandomizedSearchCV.  
+⚡ Comparação entre XGBoost, LightGBM e Catboost.  
 
-**Análise Exploratória de Dados com Dataset Olist**  
-- Análise em python realizada sobre dataset de e-commerce Olist.
-- Interface web com Streamlit.
-- Repositório: [Github](https://github.com/olavodd42/analise_exploratoria_olist)
+📊 **[Análise Exploratória de Dados — Olist](https://github.com/olavodd42/analise_exploratoria_olist)**  
+📈 EDA completo + Streamlit para visualização interativa.  
 
-**Chatbot Educacional com GPT-2**  
-- Fine-tuning do GPT-2 usando LoRA e quantização em 8-bit, reduzindo custo computacional e melhorando métricas.
-- Pipeline de dados (Python, Pandas, PyYAML) e integração com Hugging Face.
-- Weights \& Biases (W\&B) para logging de métricas e amostras.
-- Repositório: [Github](https://github.com/olavodd42/gpt2_chatbot_edu)
+🤖 **[Chatbot Educacional com GPT-2](https://github.com/olavodd42/gpt2_chatbot_edu)**  
+🎯 Fine-tuning com LoRA + quantização 8-bit.  
+📡 Hugging Face + Weights & Biases.  
 
-**Food Chatbot com Dialogflow**  
-- Chatbot criado utilizando Google Dialogflow servindo para delivery fícticio de comida.
-- Back-end com fast-api
-- Repositório: [Github](https://github.com/olavodd42/food-chatbot-project)
-
+🍔 **[Food Chatbot com Dialogflow](https://github.com/olavodd42/food-chatbot-project)**  
+🛒 FastAPI backend + NLU para delivery fictício.  
 
 ---
 
-## 🎓 **Educação**
-
-**2021–2026 | Bacharelado em Engenharia da Computação**  
-- Universidade Federal de Santa Maria (UFSM)  
-- Disciplinas Relevantes: Estruturas de Dados, Algoritmos, Ciência de Dados  
-- 8º semestre em andamento  
-
-**2018–2020 | Ensino Médio**  
-- Colégio Scalabrini (Guaporé/RS)  
-- Ênfase em Ciência & Tecnologia  
+## 🎓 Educação
+- **Engenharia da Computação (2021–2026)** – UFSM 🎓  
+- **Ensino Médio (2018–2020)** – Colégio Scalabrini  
 
 ---
 
-## 📜 **Certificações**
-
-- **Deep Learning Specialization (2024)** - DeepLearning.ai (Coursera)  
-- **Machine Learning Specialization (2024)** - Stanford Online (Coursera)  
-- **Curso de IA Básico (2024)** - Huawei ICT Academy/UFSM  
-- **JavaScript (2025)** - Curso em Vídeo  
+## 📜 Certificações
+- Trilha: Fundamentos de Power BI - Fundação Bradesco & Microsoft (2025)
+- Deep Learning Specialization – DeepLearning.AI (2024)  
+- Machine Learning Specialization – Stanford Online (2024)  
+- Curso de IA Básico – Huawei ICT Academy/UFSM (2024)  
+- JavaScript – Curso em Vídeo (2025)  
 
 ---
 
-## 📊 **Estatísticas do GitHub**
+## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olavodd42&show_icons=true&theme=transparent&cache=0&border_radius=10&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olavodd42&layout=donut&langs_count=8&cache=0&theme=transparent&show_icons=true&border_radius=10&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=olavodd42&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olavodd42&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olavodd42&theme=neon-dark&hide_border=true&border_radius=10" />
 </div>
 
 ---
 
-## 👁️ **Visitas ao Perfil**  
-[![Contador de Visitas](https://u8views.com/api/v1/github/profiles/125816508/views/day-week-month-total-count.svg)](https://u8views.com/github/olavodd42)
+## 👁️ Visitas ao Perfil  
+![Views](https://img.shields.io/badge/👁️%20Profile%20Views-00ffb3?style=for-the-badge&logo=github)
 
 🌟 **Explore meus repositórios e contribua!**
