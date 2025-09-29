@@ -14,13 +14,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate hacker snake
+      - name: Generate snake light/dark
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          # aplica estilos extras só no dark
           svg-embed-style: |
             .background { fill: #000000 }
             .snake { stroke: #00FF00 }
