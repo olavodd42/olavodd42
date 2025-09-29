@@ -122,11 +122,18 @@ Proativo, comunicativo e movido pela missão de aplicar tecnologia para **resolv
 
 ---
 
-## 🐍 Snake Graph
+## 🐍 Snake Graph (animado)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/olavodd42/olavodd42/output/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <picture>
+    <!-- versão dark (mostra quando prefer dark mode) -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olavodd42/olavodd42/output/github-snake-dark.svg" />
+    <!-- versão light (fallback) -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olavodd42/olavodd42/output/github-snake.svg" />
+    <!-- sempre renderiza alguma imagem se browser não suportar picture -->
+    <img alt="github-snake" src="https://raw.githubusercontent.com/olavodd42/olavodd42/output/github-snake.svg" style="max-width:100%;"/>
+  </picture>
+</p>
 
 
 🌟 **Explore meus repositórios e contribua!**
