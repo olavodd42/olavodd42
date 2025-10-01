@@ -51,6 +51,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 **Visualização & Dev**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -72,7 +73,7 @@
   ML pipeline com LightGBM + Optuna, comparando XGBoost e Catboost.  
 
 - 📊 **[EDA — Olist](https://github.com/olavodd42/analise_exploratoria_olist)**  
-  Dashboard interativo em Streamlit.  
+  Análise Exploratória de Dados + Dashboard interativo em Streamlit.  
 
 - 🤖 **[GPT-2 Chatbot Educacional](https://github.com/olavodd42/gpt2_chatbot_edu)**  
   Fine-tuning LoRA + quantização 8-bit.  
@@ -80,6 +81,8 @@
 - 🍔 **[Food Chatbot](https://github.com/olavodd42/food-chatbot-project)**  
   FastAPI + NLU para delivery fictício.  
 
+- 📊 **[Dashboard de Vendas — Olist (Power BI)](https://github.com/olavodd42/dashboard_vendas_olist)**  
+  Relatório + Dashboard interativo em Power BI.  
 
 ---
 
