@@ -21,7 +21,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olavodalberto921@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-e84393?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dalbertolavo/)
 [![🌐 Portfolio](https://img.shields.io/badge/🌐%20Portfolio-00FFB3?style=for-the-badge&logo=firefox&logoColor=white)](https://olavodd42.vercel.app/)
-[![📄 Currículo](https://img.shields.io/badge/📄%20Currículo-FF4C8B?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1L-4K_zcXCpPtoCAwVGVzGsBEDiuaE2Gt/view?usp=sharing)
+[![📄 Currículo](https://img.shields.io/badge/📄%20Currículo-FF4C8B?style=for-the-badge&logo=googledocs&logoColor=white)](https://1drv.ms/b/c/3b0a1d3fbe22e508/EemlkHCWB35OmWeDG-8RYuABJvw7OOb5y6DwuHhvw9lkyA)
 
 ---
 
