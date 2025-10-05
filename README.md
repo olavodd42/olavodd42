@@ -73,10 +73,7 @@
   ML pipeline com LightGBM + Optuna, comparando XGBoost e Catboost.  
 
 - 📊 **[EDA — Olist](https://github.com/olavodd42/analise_exploratoria_olist)**  
-  Análise Exploratória de Dados + Dashboard interativo em Streamlit.  
-
-- 🤖 **[GPT-2 Chatbot Educacional](https://github.com/olavodd42/gpt2_chatbot_edu)**  
-  Fine-tuning LoRA + quantização 8-bit.  
+  Análise Exploratória de Dados + Dashboard interativo em Streamlit.    
 
 - 🍔 **[Food Chatbot](https://github.com/olavodd42/food-chatbot-project)**  
   FastAPI + NLU para delivery fictício.  
