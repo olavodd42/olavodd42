@@ -1,19 +1,27 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=1000&lines=>+Bem-vindo+ao+meu+perfil%2C+humano!;>+Eu+sou+Olavo+Defendi+Dalberto+💻;>+ML+%26+AI+Engineer+em+constante+evolução...)](https://github.com/olavodd42)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=1000&lines=>+Engenharia+de+Dados+%2B+IA+Generativa;>+Transformando+café+em+pipelines+escaláveis;>+Olavo+Defendi+Dalberto+💻)](https://github.com/olavodd42)
+
+<div align="center">
+  
+  ![Cientista/Analista de Dados](https://img.shields.io/badge/💀_Data_Scientist-000000?style=for-the-badge&logo=matrix&logoColor=00ff00)
+  ![ML & AI Engineer](https://img.shields.io/badge/👾_AI_Engineer-000000?style=for-the-badge&logo=openai&logoColor=white)
+  ![GCP Cloud](https://img.shields.io/badge/☁️_GCP_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+
+</div>
 
 ---
 
-![Cientista/Analista de Dados](https://img.shields.io/badge/💀_Cientista/Analista_de_Dados-000000?style=for-the-badge&logo=matrix&logoColor=00ff00&labelColor=000000&color=000000)
-![ML & AI Engineer](https://img.shields.io/badge/👾_ML_&_AI_Engineer-000000?style=for-the-badge&logo=tensorflow&logoColor=ff0080&labelColor=000000&color=000000)
+## 👨‍💻 Sobre Mim: O Engenheiro por trás dos Dados
 
----
+Sou estudante de **Engenharia da Computação (UFSM)**, mas minha mente vive na nuvem (literalmente, no GCP). Meu foco é **quebrar a barreira entre a teoria e a produção**.
 
-## 👨‍💻 Sobre mim
-🎓 Engenheiro da Computação (9º semestre – UFSM).  
-⚡ Focado em **LLMs, ML pipelines, Data Science** e **IA aplicada**.  
-🧠 Obcecado por aprender, criar e **hackear soluções** para problemas complexos.  
+Não faço apenas modelos rodarem; eu construo o ecossistema onde eles vivem. De pipelines de dados em tempo real a aplicações de GenAI que "alucinam" com precisão controlada, meu objetivo é criar soluções robustas, escaláveis e, preferencialmente, containerizadas.
 
+* **Foco Atual:** LLMs (RAG, Fine-tuning), Engenharia de Dados Modern (dbt, BigQuery) e Arquitetura Cloud.
+* **Filosofia:** Se roda na minha máquina, precisa rodar no cluster também.
+* **Superpoder:** Otimizar LLMs para rodar em hardware de consumo (porque nem só de H100 vive o homem).
+* 
 ---
 
 ## 📫 Contato
@@ -25,61 +33,69 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-**Linguagens & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Banco de Dados**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Cloud & DevOps**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-
-**Data Science & ML**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-
-**Visualização & Dev**  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Sistemas Operacionais**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+## 🛠️ Arsenal Tecnológico (Tech Stack)
+<table>
+  <tr>
+    <td align="center"><b>Linguagens</b></td>
+    <td align="center"><b>AI & GenAI</b></td>
+    <td align="center"><b>Engenharia de Dados & Cloud</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white"/>
+      <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 
-## 📌 Projetos
+## 🔮 Projetos em Destaque
 
-- 🔮 **[Previsão de Atrasos — Olist](https://github.com/olavodd42/delay_forecast_olist)**  
-  ML pipeline com LightGBM + Optuna, comparando XGBoost e Catboost.  
+Aqui é onde a mágica acontece. Projetos end-to-end, documentados e prontos para o mundo real.
 
-- 📊 **[EDA — Olist](https://github.com/olavodd42/analise_exploratoria_olist)**  
-  Análise Exploratória de Dados + Dashboard interativo em Streamlit.    
+### 🛍️ [E-commerce Realtime Pipeline (GCP)](https://github.com/olavodd42/olist-realtime-pipeline-gcp)
+> *Porque batch processing é muito 2010.*
+* **O que é:** Pipeline de ingestão e processamento de dados de vendas em tempo real.
+* **Tech:** Pub/Sub → Cloud Functions → BigQuery → dbt → Looker Studio.
+* **Destaque:** Simulação de streaming de pedidos e dashboards executivos atualizados ao vivo.
 
-- 🍔 **[Food Chatbot](https://github.com/olavodd42/food-chatbot-project)**  
-  FastAPI + NLU para delivery fictício.  
+### 🤖 [Blog Generation LLM App (Local)](https://github.com/olavodd42/Blog-Generation-LLM-App)
+> *IA Generativa com privacidade total e custo zero.*
+* **O que é:** Aplicação que roda Llama-2 localmente para gerar posts de blog.
+* **Tech:** LangChain, Llama.cpp, Quantização (GGUF Q4/Q8).
+* **Destaque:** Implementação de offloading de camadas CPU/GPU para rodar LLMs pesados em hardware modesto.
 
-- 📊 **[Dashboard de Vendas — Olist (Power BI)](https://github.com/olavodd42/dashboard_vendas_olist)**  
-  Relatório + Dashboard interativo em Power BI.  
+### 📄 [RAG & Chat PDF Systems](https://github.com/olavodd42/llm-app-pineconedb)
+> *Conversando com documentos sem perder o contexto.*
+* **O que é:** Sistemas de QA que utilizam Retrieval-Augmented Generation.
+* **Tech:** Pinecone / Astra DB (Vetorial), OpenAI Embeddings, LangChain.
+* **Destaque:** Indexação vetorial para busca semântica de alta performance em documentos técnicos.
+
+### ♊ [Gemini Pro Demo](https://github.com/olavodd42/gemini-demo)
+* **Tech:** Google GenAI SDK, Multimodalidade (Visão + Texto).
+* **Destaque:** Exploração prática das capacidades multimodais do Gemini 2.0/Pro.
+---
+
+## 💼 Experiência & Pesquisa
+
+**🔭 Bolsista de Iniciação Científica | UFSM** *(Out 2024 – Jan 2025)*
+* **Foco:** Aplicação de **Ciência de Dados e IA na Engenharia**.
+* **Impacto:** Desenvolvi estudos sobre conformidade regulatória (LGPD) e mitigação de viés algorítmico, garantindo que a IA não seja apenas inteligente, mas ética.
 
 ---
 
@@ -90,16 +106,16 @@
 ---
 
 
-## 📜 Certificações
-- Trilha: Fundamentos de Power BI — Fundação Bradesco & Microsoft (2025)  
-- Deep Learning Specialization — DeepLearning.AI (2024)  
-- Machine Learning Specialization — Stanford Online (2024)  
-- Curso de IA Básico — Huawei ICT Academy/UFSM (2024)  
-- JavaScript — Curso em Vídeo (2025)  
+## 📜 Certificações & Educação
+
+* 🎓 **Engenharia da Computação** – UFSM (Previsão: Ago 2026)
+* ☁️ **Google Cloud Computing Foundations** – Google SkillsBoost (2025)
+* 🧠 **Deep Learning Specialization** – DeepLearning.AI (2024)
+* 📊 **Machine Learning Specialization** – Stanford Online (2024)  
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📈 Estatísticas (Porque números não mentem)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=olavodd42&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=10)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olavodd42&layout=donut&langs_count=8&theme=chartreuse-dark&hide_border=true&border_radius=10)
