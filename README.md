@@ -117,7 +117,7 @@ Aqui é onde a mágica acontece. Projetos end-to-end, documentados e prontos par
 
 ## 📈 Estatísticas (Porque números não mentem)
 
-![stats](https://github-readme-stats.vercel.app/api?username=olavodd42&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=10)
+![stats](https://github-readme-stats-fast.vercel.app/api?username=olavodd42&theme=radical)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olavodd42&layout=donut&langs_count=8&theme=chartreuse-dark&hide_border=true&border_radius=10)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=olavodd42&theme=radical&hide_border=true&border_radius=10)
 
