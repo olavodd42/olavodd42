@@ -68,27 +68,45 @@ Não faço apenas modelos rodarem; eu construo o ecossistema onde eles vivem. De
 
 Aqui é onde a mágica acontece. Projetos end-to-end, documentados e prontos para o mundo real.
 
+### 🏥 [TriaLogic - Clinical Agentic Workflow](https://github.com/olavodd42/trialogic)
+> *Multi-Agent System para análise automatizada de dados clínicos.*
+* **O que é:** Sistema de workflow multi-agente avançado para análise de dados clínicos não estruturados.
+* **Tech:** LangGraph, ChromaDB, RAG, Multi-Agent Orchestration, Clinical Risk Scoring.
+* **Destaque:** Arquitetura de agentes especializados (Scribe, Validator, Mathematician, Clinical RAG) com auto-correção e auditoria baseada em evidências.
+
 ### 🛍️ [E-commerce Realtime Pipeline (GCP)](https://github.com/olavodd42/olist-realtime-pipeline-gcp)
 > *Porque batch processing é muito 2010.*
 * **O que é:** Pipeline de ingestão e processamento de dados de vendas em tempo real.
 * **Tech:** Pub/Sub → Cloud Functions → BigQuery → dbt → Looker Studio.
 * **Destaque:** Simulação de streaming de pedidos e dashboards executivos atualizados ao vivo.
 
-### 🤖 [Blog Generation LLM App (Local)](https://github.com/olavodd42/Blog-Generation-LLM-App)
-> *IA Generativa com privacidade total e custo zero.*
-* **O que é:** Aplicação que roda Llama-2 localmente para gerar posts de blog.
-* **Tech:** LangChain, Llama.cpp, Quantização (GGUF Q4/Q8).
-* **Destaque:** Implementação de offloading de camadas CPU/GPU para rodar LLMs pesados em hardware modesto.
+### 📝 [Drafter AI Agent](https://github.com/olavodd42/Drafter)
+> *Assistente de escrita inteligente com suporte a voz.*
+* **O que é:** Assistente de escrita com interface web construído com LangGraph e Streamlit.
+* **Tech:** LangGraph, LangChain, OpenAI Whisper, Streamlit.
+* **Destaque:** Edição de documentos por comandos de voz e interface conversacional, com persistência de estado.
 
-### 📄 [RAG & Chat PDF Systems](https://github.com/olavodd42/llm-app-pineconedb)
+### 🤖 [microGPT - GPT-2 from Scratch](https://github.com/olavodd42/microGPT)
+> *Implementação completa de GPT-2 (124M params) com otimizações modernas.*
+* **O que é:** Modelo autoregressive tipo GPT-2 implementado do zero em PyTorch.
+* **Tech:** PyTorch, RoPE, KVCache, Byte-Level BPE, WandB, AMP Training.
+* **Destaque:** RoPE (Rotary Positional Embeddings), Gradient Checkpointing, e tokenizer BPE customizado.
+
+### 📄 [RAG-Doc-Agent - Stock Market QA](https://github.com/olavodd42/RAG-Doc-Agent)
+> *Agente RAG para análise de documentos financeiros.*
+* **O que é:** Agente de Geração Aumentada por Recuperação para responder perguntas sobre mercado de ações.
+* **Tech:** LangGraph, LangChain, ChromaDB, OpenAI Embeddings.
+* **Destaque:** Decisão dinâmica de quando consultar a base de conhecimento vetorial através de grafo de estados.
+
+### 🔍 [RAG & Chat PDF Systems](https://github.com/olavodd42/LLM-App-PineconeDB)
 > *Conversando com documentos sem perder o contexto.*
 * **O que é:** Sistemas de QA que utilizam Retrieval-Augmented Generation.
 * **Tech:** Pinecone / Astra DB (Vetorial), OpenAI Embeddings, LangChain.
 * **Destaque:** Indexação vetorial para busca semântica de alta performance em documentos técnicos.
 
-### ♊ [Gemini Pro Demo](https://github.com/olavodd42/gemini-demo)
+### ♊ [Gemini Demo & Invoice Extractor](https://github.com/olavodd42/Gemini-Demo)
 * **Tech:** Google GenAI SDK, Multimodalidade (Visão + Texto).
-* **Destaque:** Exploração prática das capacidades multimodais do Gemini 2.0/Pro.
+* **Destaque:** Exploração prática das capacidades multimodais do Gemini 2.0/Pro e extração automatizada de dados de faturas.
 ---
 
 ## 💼 Experiência & Pesquisa
