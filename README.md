@@ -17,11 +17,6 @@
 Sou estudante de **Engenharia da Computação (UFSM)**, mas minha mente vive na nuvem (literalmente, no GCP). Meu foco é **quebrar a barreira entre a teoria e a produção**.
 
 Não faço apenas modelos rodarem; eu construo o ecossistema onde eles vivem. De pipelines de dados em tempo real a aplicações de GenAI que "alucinam" com precisão controlada, meu objetivo é criar soluções robustas, escaláveis e, preferencialmente, containerizadas.
-
-* **Foco Atual:** LLMs (RAG, Fine-tuning), Engenharia de Dados Modern (dbt, BigQuery).
-* **Filosofia:** Se roda na minha máquina, precisa rodar no cluster também.
-* **Superpoder:** Otimizar LLMs para rodar em hardware de consumo (porque nem só de H100 vive o homem).
-* 
 ---
 
 ## 📫 Contato
