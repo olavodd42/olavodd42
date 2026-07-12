@@ -22,6 +22,20 @@ Engenheiro da Computação (UFSM) focado em Inteligência Artificial: agentes au
 
 **[resume-analyzer-app](https://github.com/olavodd42/resume-analyzer-app)** — Analisador de currículos com IA (Claude) que extrai texto de PDFs e gera feedback estruturado.
 
+**[RAG-Chatbot](https://github.com/olavodd42/RAG-Chatbot)** — Chatbot RAG (OmniLLaMA) que usa Llama 3.2 via Ollama para responder perguntas com contexto extraído de múltiplos datasets (Wikipedia, diálogos, etc.).
+
+**[Drafter](https://github.com/olavodd42/Drafter)** — Agente de escrita construído com LangGraph e LangChain que cria, atualiza e salva documentos via conversação ou comandos de voz.
+
+**[Blog-Generation-LLM-App](https://github.com/olavodd42/Blog-Generation-LLM-App)** — Aplicação Streamlit + LangChain que usa um Llama 2 local para gerar posts de blog profissionais.
+
+**[LLM-App-PineconeDB](https://github.com/olavodd42/LLM-App-PineconeDB)** — Sistema RAG sobre PDFs usando OpenAI para embeddings/respostas e Pinecone como banco vetorial.
+
+**[banco-provas](https://github.com/olavodd42/banco-provas)** — Banco de questões de concursos públicos (FastAPI + PostgreSQL), com busca full-text, filtros combináveis e montagem de simulados com correção no servidor.
+
+**[deepfakes-detection](https://github.com/olavodd42/deepfakes-detection)** — Detector de vídeos deepfake baseado em ResNet, com pipeline completo de extração de frames, treinamento e avaliação.
+
+**[recommender-system](https://github.com/olavodd42/recommender-system)** — Sistema de recomendação end-to-end, do processamento de dados (ETL com Polars) até a recuperação de itens em produção.
+
 ## 🛠️ Stack
 
 `Python` `TypeScript` `PyTorch` `LangChain` `LangGraph` `Node.js/Express` `Next.js` `PostgreSQL/Prisma` `Docker` `GCP (BigQuery, Pub/Sub, Cloud Functions)` `ROS 2`
